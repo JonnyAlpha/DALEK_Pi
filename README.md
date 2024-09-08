@@ -5,5 +5,6 @@ A repository created to store items related to my DALEK Pi project.
 
 **dalekout.wav** - is a recording to demonstrate the results.
 
-sound_level.py is a Python program that reads the sound output and displays it as an integer.
-sound_led.py is an extension of sound_level.py that takes the integer output and uses it to control an led to create sound to light for the Dalek Dome lights.
+**sound_level.py** is a Python program that reads the sound output and displays it as an integer.
+
+**sound_led.py** is an extension of sound_level.py that takes the integer output and uses it to control an led to create sound to light for the Dalek Dome lights.
